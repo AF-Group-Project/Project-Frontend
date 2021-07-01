@@ -28,13 +28,16 @@ export default function conCard() {
           <Card>
            
             <CardContent>
-              <Typography>Prof.John Willaims</Typography>
+              <Typography> DISRUPTION IN AFRICA</Typography>
             </CardContent>
             <CardContent>
-              <Typography>Prof.John Willaims</Typography>
+              <Typography> CFA Society South Africa Annual Investment Conference - a CPD Programme Event</Typography>
             </CardContent>
             <CardContent>
-              <Typography>Prof.John Willaims</Typography>
+              <Typography>Thursday, 25th July 2019</Typography>
+            </CardContent>
+            <CardContent>
+              <Typography>The Maslow Hotel, Sandton</Typography>
             </CardContent>
           </Card>
         </Grid>
@@ -42,13 +45,17 @@ export default function conCard() {
           <Card>
     
           <CardContent>
-              <Typography>Prof.John Willaims</Typography>
+              <Typography> 2021 CIT INTERNATIONAL CONFERENCE</Typography>
             </CardContent>
             <CardContent>
-              <Typography>Prof.John Willaims</Typography>
+              <Typography>TURNING UP THE HEAT WITH CIT TRANSFORMING CRISIS RESPONSE SYSTEMS</Typography>
             </CardContent>
             <CardContent>
-              <Typography>Prof.John Willaims</Typography>
+              <Typography>August 16 - 2021</Typography>
+            </CardContent>
+            <CardContent>
+              <Typography>J.W. Marriott Phoenix Desert Ridge Resort and Spa
+                  5350 East Marriott Drive ~ Phoenix, AZ ~ 85054</Typography>
             </CardContent>
           </Card>
         </Grid>
@@ -56,13 +63,17 @@ export default function conCard() {
           <Card>
            
           <CardContent>
-              <Typography>Prof.John Willaims</Typography>
+              <Typography> IBA Annual Conference Miami 2022</Typography>
             </CardContent>
             <CardContent>
-              <Typography>Prof.John Willaims</Typography>
+              <Typography>International Bar Association
+                             the global voice of the legal profession</Typography>
             </CardContent>
             <CardContent>
-              <Typography>Prof.John Willaims</Typography>
+              <Typography> 30 Oct -2021</Typography>
+            </CardContent>
+            <CardContent>
+              <Typography>Miami Beach Convention Center, Miami Beach, USA</Typography>
             </CardContent>
           </Card>
         </Grid>
